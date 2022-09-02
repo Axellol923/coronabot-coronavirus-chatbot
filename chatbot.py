@@ -25,4 +25,4 @@ else:
 while True:
     input_text = input(" Human > ")
     response = k.respond(input_text)
-    print(" Corona Bot  >  "+response)
+    print(" 𝗞𝗜𝗥𝗕𝗬 𝗕𝗢𝗧  >  "+response)
